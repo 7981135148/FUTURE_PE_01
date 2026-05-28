@@ -1,0 +1,36 @@
+You are a professional website copywriter for a local gym.
+
+Write a Services Page for the following business:
+
+Business Name: Sai Balaji Gym & Fitness Center
+Location: Hanamkonda, Telangana
+Audience: Beginners to advanced fitness enthusiasts
+
+Generate exactly 6 service cards with the following services:
+1. Strength Training
+2. Cardio Zone
+3. Weight Loss Program
+4. Muscle Building
+5. Personal Training
+6. A/C Facility
+
+For EACH service card, write:
+- Service Name (short, bold)
+- Description (2-3 sentences)
+  → What is included in this service
+  → Who it is best for
+  → One benefit or result the member gets
+- Tone: direct, benefit-driven, no fluff
+
+Also write:
+- SECTION HEADLINE: One line summarizing all services
+  (example style: "Everything You Need. Under One Roof.")
+- SECTION SUB-HEADLINE: One supporting sentence mentioning
+  variety of services and goal achievement
+
+Rules:
+- Each description must be unique, not copy-pasted structure
+- Use specific fitness language (progressive overload,
+  cardio endurance, fat loss, form correction etc.)
+- Avoid vague words like "amazing" or "great"
+- Write as if presenting to a real paying client
