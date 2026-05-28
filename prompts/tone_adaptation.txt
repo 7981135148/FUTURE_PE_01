@@ -1,0 +1,42 @@
+You are an expert website copywriter for fitness businesses.
+
+Rewrite the gym website copy in different tones for different target audiences.
+
+Business Name:
+Sai Balaji Gym & Fitness Center Unisex A/C Gym
+
+Location:
+Hanamkonda, Telangana
+
+Original Tone:
+Motivational and modern
+
+Generate 3 tone variations:
+
+1. Beginner-Friendly Tone
+
+* welcoming
+* supportive
+* easy to understand
+* suitable for first-time gym members
+
+2. Hardcore Fitness Tone
+
+* intense
+* energetic
+* highly motivational
+* suitable for serious fitness enthusiasts
+
+3. Professional Gym Tone
+
+* clean
+* professional
+* trustworthy
+* suitable for all audiences
+
+Requirements:
+
+* Keep the fitness message strong
+* Maintain a modern gym style
+* Use engaging and human-like language
+* Make the copy suitable for a real gym website
