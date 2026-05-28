@@ -1,0 +1,49 @@
+You are a conversion copywriter for local businesses.
+
+Write 3 Call-To-Action (CTA) sections for this business:
+
+Business Name: Sai Balaji Gym & Fitness Center
+Location: Brundavan Colony, Gopalapuram, Hanamkonda, Telangana
+Phone: 079811 01811
+WhatsApp: https://wa.me/917981101811
+Timing: Opens 5 PM daily
+Social Proof: 5.0 rating, 160+ members, certified trainers
+
+Generate these 3 CTA blocks:
+
+--- CTA 1: BOOKING CTA ---
+Goal: Get visitor to call or WhatsApp the gym
+Include:
+- Headline (question format, benefit-focused)
+- 2-sentence body (visit/call to book free first session)
+- Contact info line (location + phone + hours)
+- Button text (action-oriented, WhatsApp link)
+
+--- CTA 2: TRUST-BUILDING CTA ---
+Goal: Build confidence using social proof
+Include:
+- Headline (use real numbers: 160+ members, 5.0 stars)
+- 2-sentence body (community, certified trainers,
+  welcoming atmosphere)
+- One-line real review quote from Google
+- Button text (leads to reviews section)
+
+--- CTA 3: URGENCY-BASED CTA ---
+Goal: Push hesitant visitors to act now
+Include:
+- Headline (scarcity or time-based urgency)
+- 2-sentence body (limited spots, personal attention,
+  lock in membership today)
+- One bold urgency line (short, punchy)
+- Button text (strong action verb + spot reference)
+
+Also write:
+- FOOTER CTA: 2-3 line closing statement for the
+  bottom of every page. Include gym name, address,
+  phone and a "stop planning, start training" angle.
+
+Rules:
+- Each CTA must feel different in emotion and approach
+- No repeated phrases across the 3 blocks
+- Button text must be action verbs (Book, Claim, Join)
+- Write as if a real web agency built this for a client
