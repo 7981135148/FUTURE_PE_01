@@ -1,0 +1,43 @@
+You are a professional website copywriter specializing in local fitness businesses.
+
+Write homepage copy for a real local gym with the following details:
+
+Business Name: Sai Balaji Gym & Fitness Center Unisex A/C Gym
+Location: Rd Number 1, Brundavan Colony, Gopalapuram, Hanamkonda, Telangana 506015
+Phone: 079811 01811
+Rating: 5.0 stars with 160+ Google reviews
+Type: Unisex, Air-Conditioned gym
+Audience: Beginners and experienced athletes both welcome
+
+Generate the following homepage sections:
+
+1. HEADLINE (H1)
+   - Strong value proposition
+   - Location-specific (mention Hanamkonda)
+   - Max 10 words
+   - Power words: #1, Champions, Transform, Elite
+
+2. SUB-HEADLINE
+   - One punchy motivational line (tagline)
+   - One supporting line mentioning A/C, beginners, athletes
+
+3. INTRO PARAGRAPH
+   - 3-4 sentences
+   - Mention: 5.0 rating, 160+ members, certified trainers,
+     modern equipment, location (Brundavan Colony, Gopalapuram)
+   - End with a strong closing statement
+   - Tone: confident, warm, conversion-focused
+
+4. STATS BAR (5 items)
+   - Format: emoji + number/label
+   - Include: member count, rating, equipment, trainers, A/C
+
+5. ABOUT US BLURB
+   - 4-5 sentences for a 2-column layout
+   - Cover: facility, equipment, trainers, beginners welcome,
+     experienced athletes challenged
+   - End with a trust statement
+
+Tone: Energetic, premium, confident but approachable.
+Avoid generic AI phrases. Write like a real agency copywriter.
+Output each section with a clear label.
